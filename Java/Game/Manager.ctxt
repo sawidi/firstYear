@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Manager
+comment0.text=\n\ Manager.java\n\ made\ by\ Mohamed\ Alsawidi\n
+comment1.params=newSurname\ newManagerID
+comment1.target=Manager(java.lang.String,\ java.lang.String)
+comment1.text=\n\ constructor\ for\ objects\ of\ class\ Manager\n
+comment2.params=
+comment2.target=java.lang.String\ getSurname()
+comment2.text=\n\ accessor\ for\ surname\n
+comment3.params=
+comment3.target=java.lang.String\ getManagerID()
+comment3.text=\n\ accessor\ for\ manager\ ID\n
+numComments=4
