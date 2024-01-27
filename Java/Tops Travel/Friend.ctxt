@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Friend
+comment0.text=\n\ @author\ (Mohamed\ Alsawidi)\n\ @module\ (Programming\ 1)\n
+comment1.params=yourName\ amount
+comment1.target=Friend(java.lang.String,\ double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Friend\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ accessor\ for\ name\n
+comment3.params=
+comment3.target=double\ getMoney()
+comment3.text=\n\ accessor\ for\ money\n
+comment4.params=yourName
+comment4.target=void\ setName(java.lang.String)
+comment4.text=\n\ mutator\ for\ name\n
+comment5.params=amount
+comment5.target=void\ setMoney(double)
+comment5.text=\n\ mutator\ for\ name\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ return\ friend's\ details\n
+numComments=7

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Company
+comment0.text=\n\ @author\ (Mohamed\ Alsawidi)\n\ @module\ (Programming\ 1)\n
+comment1.params=newName
+comment1.target=Company(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Company\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getWebsiteList()
+comment2.text=\n\ accessor\ for\ websitelist\n
+comment3.params=website
+comment3.target=void\ storeWebsite(Website)
+comment3.text=\n\ add\ a\ website\ to\ the\ arraylist\n
+comment4.params=number
+comment4.target=void\ removeWebsite(int)
+comment4.text=\n\ remove\ a\ website\ from\ the\ arraylist\n
+comment5.params=checkAmount
+comment5.target=java.util.ArrayList\ findProfitableWebsites(int)
+comment5.text=\n\ returns\ a\ new\ arraylist\ with\ sales\ over\ a\ given\ number\n
+comment6.params=holiday
+comment6.target=java.util.ArrayList\ findMembersHoliday(Holiday)
+comment6.text=\n\ returns\ a\ new\ arraylist\ with\ members\ that\ have\ a\ given\ holiday\ selected\n
+numComments=7
